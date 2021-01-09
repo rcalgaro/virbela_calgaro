@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hq8Nh2sRnH1oF7WvL0iiijQJlepqzqtNizB4Nzn8aamTaS+hs0szVING7vVCN3OApOjg8HVuGvW9ABamXRZD2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rachel\\Documents\\virbelacodingtest\\Exercise2\\VirBELA_RachelCalgaroEx2\\VirBELA_RachelCalgaroEx2\\VirBELA_RachelCalgaroEx2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rachel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

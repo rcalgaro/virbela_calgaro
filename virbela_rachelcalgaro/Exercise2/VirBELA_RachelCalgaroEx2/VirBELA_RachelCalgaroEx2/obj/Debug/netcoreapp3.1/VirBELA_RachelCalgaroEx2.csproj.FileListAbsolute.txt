@@ -1,0 +1,13 @@
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\bin\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.exe
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\bin\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.deps.json
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\bin\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.runtimeconfig.json
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\bin\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.runtimeconfig.dev.json
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\bin\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.dll
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\bin\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.pdb
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.csprojAssemblyReference.cache
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.AssemblyInfoInputs.cache
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.AssemblyInfo.cs
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.dll
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.pdb
+C:\Users\Rachel\Documents\virbelacodingtest\Exercise2\VirBELA_RachelCalgaroEx2\VirBELA_RachelCalgaroEx2\obj\Debug\netcoreapp3.1\VirBELA_RachelCalgaroEx2.genruntimeconfig.cache
